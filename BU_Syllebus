@@ -1,0 +1,235 @@
+Timing:
+------
+Saturday - 2h(minimum)
+Sunday - 2h(minimum)
+One day in a month(variable date mostly on holiday if avaiable) for
+Previous Years Question-Answer solve + Computer Programming
+
+When take exam that day duration 3h
+
+Note: Conducting an exam in each month last tusion date(Just 45 min with full marks 30)
+
+I covered the following syllebus:
+=================================
+Mathematical Probability - 40 Marks - 1h/2days
+Operations Research - 40 Marks - 1h/2days
+Rigid Dynamics - 50 Marks - 
+Statics - 20 Marks -
+Hydrostatics - 30 Marks -
+Statistics - 20 Marks -
+Numerical Analysis - 35 Marks
+Computer programming - 65 Marks -2h/month
+=========================================
+
+Fees : 800 
+
+
+Syllebus For Mathematical Probability(40):
+----------------------------------------------------------------------------------------------------------
+Prerequisite: [Concept of mathematical probility, addition and multiplication theorem of
+probability. Independent event, total probability, Bayes’ theorem, Bernoulli trials, Binomial
+distribution].
+
+Generalised addition and multiplication rule of probability continuity theory, Boole’s inequality,
+Bonferroni’s inequality; Poisson trials and Poisson law of probability, Multinomial law; Random
+variables, Discrete and continuous distribution functions: Poisson, Geometric, Negative Binomial,
+exponential, Hypergeometric, Uniforn, Normal, Gamma, Beta, Cauchy distributions,
+
+Transformation of random variables; Discrete and continuous distribution in two dimension,
+Marginal distribution, Bivariate Uniform distribution, Bivariate Normal distribution,
+Transformation of two dimensional random variables, Conditional distribution, Mathematical
+expectation in one and two variables, Moments, Measures of skewness and kurtosis, Moment
+generating function, Characteristic function, Uniqueness of characteristic function (statement
+only) Conditional expectation, covariance, co-relation coefficient, Regression curves,
+chi-square and t-distribution, convergence in probability, convergence in law, Tchebycheff’s inequality, 
+Bernoulli’s limit theorem, Law of large numbers, Concept of asymptotically normal distribution,
+De-Moivre-Laplace limit theorem, Central limit theorem in case of equal components.
+
+
+
+Syllebus For Statistics(20):
+------------------------------------------------------------------------------------------------------------
+Method of least square, curve fitting (straight line, parabola and exponential curves).
+Sampling theory, simple random sampling, sampling distribution of the statistic;
+chi-square, t and F distribution of the statistic.
+Theory of estimation, point estimation, unbiasedness, minimum variance, consistency, efficiency,
+sufficiently, maximum likelihood method; Interval estimation –confidence interval, approximate
+confidence interval. Testing of hypothesis, Neyman-Pearson lemma, Likelihood ratio testing,
+application to Normal(m,sigma) population, Pearsonian chi-square test for goodness of fit. Theory of errors.
+
+
+
+Syllebus For Operations Research(40):
+------------------------------------------------------------------------------------------------------------
+Prerequisite: [General introduction to optimization problem, Definition of L.P.P., Mathematical
+formulation of the problem, Canonical & Standard form of L.P.P., Basic solutions, feasible, basic
+feasible & optimal solutions].
+Reduction of a feasible solution to basic feasible solution.
+Hyperplanes, Convex sets and their properties, Convex functions, Extreme points, Convex feasible
+region, Convex polyhedron, Polytope, Supporting hyperplane, Separating hyperplane.
+
+Fundamental theorem of L.P.P., Replacement of a basis vector, Improved basic feasible solutions,
+Unbounded solution, Condition of optimality, Simplex method, Simplex algorithm, Artificial
+variable technique (Big M method, Two phase method), Inversion of a matrix by Simplex method,
+Solution of simultaneous equations by Simplex method
+
+Duality in L.P.P.: Concept of duality, Fundamental properties of duality, Fundamental theorem of
+duality, Duality & Simplex method, Dual simplex method and algorithm.
+
+Transportation Problem (T.P.): Mathematical formulation, Existence of feasible solution, Loops
+and their properties, Initial basic feasible solutions (different methods, like North West corner,
+Row minima, Column minima, Matrix minima & Vogel’s Approximation method), Optimal
+solutions, Degeneracy in T.P., Unbalanced T.P., Special cases in T.P. 
+
+Assignment Problem (A.P.): Mathematical formulation, Solution methods of A.P., Hungerian
+method, Restrictions on assignments, maximization problem, unbalanced assignment problem,
+Traveling salesman (salesperson) problem.
+
+Theory of Games: Introduction, Two person zero-sum games, Minimax and Maximin priciples,
+Minimax and Saddle point theorems, Pure and Mixed Strategies games without saddle points,
+Minimax (Maximin) criterion, Dominance rules, Solution methods of games without saddle point :
+Algebraic method, Graphical method and Linear Programming method, Symmetric game.
+
+Syllebus For Rigid Dynamics(50)0:
+---------------------------------------------------------------------------------------------------------------
+Idea of continuum, idea of strain and stress at a point in a continuum, stress vector, stress matrix,
+ideal fluid, viscous fluid. 
+Physical foundation of classical dynamics: Interpretation of Newton’s laws of motion – body force
+and surface force with examples, inertial frames, law of superposition, closed systems, concepts of
+absolute time, concepts of absolute space, concepts of absolute simultaneity of events; Galilean
+transformation – form invariance of Newton’s laws under Galilean transformation, limitations of
+direct applications of Newton’s laws in solving problems of mechanics.
+
+Dynamics of a system of particles: Basic concepts, Centroid, linear momentum, angular
+momentum, kinetic energy, potential energy, work, power, conservative system of forces; Use of
+centroid – motion relative to the centroid, angular momentum and kinetic energy relative to the
+centroid; Conservation principles – linear momentum, angular momentum, total energy;
+Constraints – basic concepts with examples, D’Alembert Principle. 
+
+Introduction to rigid body dynamics: Moments and product of inertia – basic concepts, radius of
+gyration, parallel and perpendicular axis theorems, a few examples (rod, rectangular plate, circular
+plate, elliptic plate, sphere, cone, rectangular parallelepiped, cylinder, ellipsoid of revolution etc.);
+Motion about a point and about fixed axes – angular momentum, inertia matrix, principal axes,
+principal moments of inertia, kinetic energy, momental ellipsoid, equimomental surface, reaction
+of the axis of rotation, impulsive forces; General motion of rigid body – translational and
+rotational motion, kinetic energy and angular momentum (translational and rotational); 
+Twodimensional motion of rigid body - equation of motion, kinetic energy, angular momentum,
+problems illustrating laws of motion [motion of a uniform sphere (solid and hollow) along a
+perfectly rough plane, motion of a uniform heavy circular cylinder (solid and hollow) along a
+perfectly rough inclined plane, motion of a rod when released from a vertical position with one
+end resting upon a perfectly rough table or smooth table, motion of a uniform heavy solid sphere
+along an imperfectly rough inclined plane, motion of a uniform circular disc, projected with its
+plane vertical along an imperfectly rough horizontal plane with a velocity of translation and
+angular velocity about the centre]
+
+Syllebus For Static(20):
+----------------------------------------------------------------------------------------------------
+Prerequisite: [Basic concepts – concurrent forces, parallel forces, moment of a force, couple,
+resultant of a force and a couple].
+Forces in three-dimension – reduction to force and couple, Pointsot’s central axis, wrench, pitch,
+screw, conditions of equilibrium, invariants; Virtual work – concept of virtual displacement,
+principle of virtual work, simple examples; Stability of equilibrium – stable and unstable
+equilibrium, energy test of stability, determination of positions of equilibrium, stability of a heavy
+body resting on a fixed body with smooth surfaces, simple examples; Equilibrium of flexible
+string – general equations of equilibrium of a uniform flexible string under the action of given
+coplanar forces, common catenary, parabolic chain, suspension bridge, catenary of uniform
+strength
+
+
+Syllebus For Hydrostatics(30):
+----------------------------------------------------------------------------------------------------
+Basic concepts – fluid pressure and its elementary properties (such as in equilibrium it is same in
+every direction), density, specific gravity, compressible and incompressible fluid, homogeneous
+and non-homogeneous fluid; Equilibrium of fluid in a given field of force – equation of pressure,
+conditions of equilibrium, pressure gradient, equipressure surface, equilibrium of fluid rotating
+uniformly about an axis; Pressure in a heavy homogeneous liquid – thrust on a plane surface,
+centre of pressure, determining the position of the centre of pressure, effects on increasing depth,
+thrust on a curved surface, buoyancy, Archimedes principle, resultant thrust, Equilibrium of
+floating bodies – conditions of equilibrium of a freely floating body, body floating under
+constraints, equilibrium of fluids revolving uniformly about an axis, stability of equilibrium,
+metacentre, conditions of stability; Gases – relation among pressure, volume and temperature,
+Boyle’s law, Charle’s law, ideal gas, isothermal and adiabatic changes, heat capacities, internal
+energy of a gas, reversible change, equilibrium of an isothermal atmosphere, convective
+equilibrium, total energy at rest.
+
+Syllebus For Numerical Analysis(35):
+--------------------------------------------------------------------------------------------------
+Approximation of numbers, significant digits, Loss of significance, Algebraic manipulation for
+avoiding loss of significance.
+Errors: Absolute, Relative and Percentage errors; Inherent errors in numerical methods.
+
+Polynomial Interpolations: Existence and uniqueness of interpolating polynomials, error in
+interpolation, Lagrange’s interpolating formula, Newton’s divided difference interpolating
+formula, properties of divided differences, forward and backward difference operators and their
+relations, Newton’s forward and backward difference interpolation formulae.
+Central difference and averaging operators, central interpolation formulae: Statement of Gauss,
+Stirling and Bessel’s formulae and their applications. Concept of piece-wise polynomial
+interpolation, Idea of Inverse interpolation.
+
+Numerical solution of non-linear equations:
+Solution of algebraic and transcendental equations (real roots only): (i) Method of Bisection, (ii)
+Regula Falsi Method (iii) Secant Method (iv) Newton – Raphson Method (v) Fixed point iteration
+method. Convergences and rate of convergence of these methods.
+
+Solution of a system of linear algebraic equation:
+Gauss’ Elimination and Gauss Jordan methods, Pivoting methods, Jacobi and Gauss-Seidel
+methods with convergence criteria.
+
+Numerical Integration: Concept of numerical quadrature, Newton-Cotes’ formula trapezoidal rule,
+Simpson’s one-third rule, Geometrical interpretation of the methods, Degree of precision. 
+
+Solution of first-order ordinary differential equation: Picard’s method, Euler’s method, Modified
+Euler’s method, Error estimate and convergence of Euler’s method, Taylor’s method, Runge-Kutta’s 
+method of second and fourth orders (derivation of second order formula only) 
+
+
+Syllebus For Computer Programming(65):
+--------------------------------------------------------------------------------------------------
+Computer Language: 
+	Concept of programming languages, Machine language, Assembly language, High-level language,
+ Interpreter, Compiler, Source and Object programs.
+
+Number Systems: 
+	Binary, decimal, octal and hexadecimal number systems and their conversions.
+
+Programming Language in C: 
+	C-Character set, Keywords, Basic data types, Numeric constants
+and variables operators, Expressions, Assignment statements, I/0 – statements.
+Control Statements: Decision making and Looping statements in C, break continue and goto
+statements, Example of simple programs.
+Subscripted variables: Concept of array variables in programming language, Rules for one
+dimensional subscripted variable in C, Simple programs.
+Sub-program: Concept of sub-program, purpose of sub-program, Definition of function and
+function prototype, Simple programs.
+
+
+Sessional (Algorithm, Flowchart and Program with output) : 10 marks
+Problem – I: 25 marks (Algorithm-5, Flowchart-5, Program-10, Result-5)
+Problem - II: 10 Marks(Program – 5, Result – 5)
+Viva-voce: 5 marks
+
+Problem-I:
+  1.Interpolation (taking at least six points) by
+	(a) Lagrange’s interpolation formula,
+	(b) Newton’s Forward Difference formula
+Problem-I: 
+  2.Solution of a first-order ordinary differential equation by
+	(a) Modified Euler’s method,
+	(b) Fourth-order Runge-Kutta method
+Problem-I:
+  3.Solution of system of linear equations by
+	(a) Gauss elimination method (excluding pivotal condensation)
+Problem-II: 
+  1.Finding a real root of an equation by
+        (a) Fixed point iteration method,
+	(b) Newton-Raphson’s method
+Problem-II:
+  2.Integration (taking at least 10 sub-intervals) by
+	(a) Trapezoidal rule,
+	(b) Simpson’s 1/3 rd rule
+
+Theory - 15
+Practical - 50
+
+
+
